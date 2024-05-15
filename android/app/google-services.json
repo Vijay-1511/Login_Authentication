@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933830661079",
+    "project_id": "saksham-login",
+    "storage_bucket": "saksham-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933830661079:android:89e00dd451da8290c1b192",
+        "android_client_info": {
+          "package_name": "com.example.saksham_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAqwR18nLHSLAAw3VdBoXOao0VhwNqVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
